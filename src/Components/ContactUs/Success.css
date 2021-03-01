@@ -1,0 +1,10 @@
+.check .svg-inline--fa { 
+            width: 13em !important;
+            height: 9em !important;
+            color: green;
+}
+button a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}

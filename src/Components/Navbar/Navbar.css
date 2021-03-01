@@ -1,0 +1,44 @@
+.navbar{
+    padding-top: 0;
+    margin-right: 2%;
+   
+}
+li{
+    padding: 18px 0 ;
+    cursor: pointer;
+}
+li a{
+    font-weight: 700;
+    font-size: 15px;
+    color: #fff;
+}
+.navbar-brand{
+    padding-right: 25px;
+}
+.my-navbar{
+    margin-right: 2px;
+   
+}
+.dropdown-item {
+    background-color: #fff;
+
+}
+.dropdown-menu li {
+    background-color: #fff;
+    padding: 4px;   
+    
+}
+.cloth ul li {
+list-style-type: none;
+
+}
+.cloth ul:hover {
+    background: none;
+}
+.my-navbar{
+    background-color: #212529;;
+   width: 100%;
+}
+ul li a:hover {
+color: #fff;
+}
